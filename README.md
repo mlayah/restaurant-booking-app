@@ -1,6 +1,6 @@
 # RESTAURANT BOOKING APP CONCEPT
 
-<img src="attachment.png" height="100"/>
+<img src="attachment.png" width="100"/>
 
 A new Flutter project.
 
